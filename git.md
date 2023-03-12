@@ -2,15 +2,15 @@
 
 **git init** - *инициализация локального репозитория*
 
-**git config --global user.name «Ваше имя английскими буквами»** - **
+**git config --global user.name «Ваше имя английскими буквами»** - *Ввести имя пользователя*
 
-git config --global user.email ваша почта@example.com
+**git config --global user.email ваша почта@example.com** - *почты*
 
-Git –version
+**Git –version** - *выводит версию GIT*
 
-Git -status
+**Git -status** - *выводит статус*
 
-Git -add file.py (если нажать tab завершит имя файла) – добавить файл для отслеживания 
+**Git -add file.py**  – *добавить файл для отслеживания (если нажать tab завершит имя файла)*
 
 ## Основные команды второго семинара
 
