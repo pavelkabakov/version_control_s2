@@ -19,3 +19,7 @@ Git -add file.py (если нажать tab завершит имя файла) 
 **git branch** 
 
 **git checkout -b branch_name
+
+## Изменения в ветке MASTER
+
+**просто тексте ver_3**
