@@ -15,3 +15,7 @@ Git -add file.py (если нажать tab завершит имя файла) 
 ## Основные команды второго семинара
 
 **git branch** - *вывести ветки репозитория*
+
+**git branch** 
+
+**git checkout -b branch_name
